@@ -6,6 +6,15 @@ A work in progress first person dark fantasy RPG project that uses 3D world envi
 Press TAB while ingame to enter the options menu or just use a gamepad controller and press start to enter the options menu.
 
 -------------------------------------
+Current NPCs Ingame:
+
+-Axe Zombie (Melee Enemy)
+
+Current Weapons Ingame:
+
+-Basic Pitchfork (Melee Weapon)
+
+-------------------------------------
 Project Currently Under 2GB & Uses LFS storage.
 
 UE4 Project Made By: AkumaVenom

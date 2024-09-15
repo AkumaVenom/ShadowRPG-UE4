@@ -24,6 +24,8 @@ Features Implemented:
 
 -Item Shop / Buy & Sell Items.
 
+-Saving & Loading
+
 -NPC's can be Looted for a chance of getting items.
 
 -Optional Pet Summoning & Battle System / Player pets battle with other wild pets. (WIP)

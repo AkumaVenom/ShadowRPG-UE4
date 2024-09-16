@@ -35,6 +35,6 @@ Project Currently Under 2GB & Uses LFS storage.
 
 UE4 Project Made By: AkumaVenom
 
-We encourage use of this opensource 2D/3D ShadowRPG Project to inspire and help create projects and games of the same style very quickly with a big head start on things.
+We encourage use of this opensource 2D/3D ShadowRPG Project to inspire and help create projects and games of the same style with a big head start on things.
 
 -------------------------------------

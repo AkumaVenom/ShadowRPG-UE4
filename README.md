@@ -32,6 +32,8 @@ Features Implemented:
 
 -Saving & Loading
 
+-NPC Enemy AI (Melee & Ranged)
+
 -NPC's can be Looted for a chance of getting items.
 
 -------------------------------------

@@ -14,6 +14,8 @@ Current NPCs Ingame:
 
 -Sin Demon (Ranged Enemy) It will summon fireballs from a distance to shoot at the player.
 
+-------------------------------------
+
 Current Weapons Ingame:
 
 -Basic Pitchfork (Melee Weapon)

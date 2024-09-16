@@ -10,6 +10,8 @@ Current NPCs Ingame:
 
 -Axe Zombie (Melee Enemy) It swings and attacks the player with an axe.
 
+-Demonic Spiderling (Melee Enemy) They are small and in many numbers, They move at a very fast speed and will attack the player if provoked.
+
 -Sin Demon (Ranged Enemy) It will summon fireballs from a distance to shoot at the player.
 
 Current Weapons Ingame:

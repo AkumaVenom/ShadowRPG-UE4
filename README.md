@@ -8,7 +8,9 @@ Press TAB while ingame to enter the options menu or just use a gamepad controlle
 -------------------------------------
 Current NPCs Ingame:
 
--Axe Zombie (Melee Enemy)
+-Axe Zombie (Melee Enemy) It swings and attacks the player with an axe.
+
+-Sin Demon (Ranged Enemy) It will summon fireballs from a distance to shoot at the player.
 
 Current Weapons Ingame:
 

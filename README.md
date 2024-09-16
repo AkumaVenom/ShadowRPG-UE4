@@ -30,8 +30,6 @@ Features Implemented:
 
 -NPC's can be Looted for a chance of getting items.
 
--Optional Pet Summoning & Battle System / Player pets battle with other wild pets. (WIP)
-
 -------------------------------------
 Project Currently Under 2GB & Uses LFS storage.
 

@@ -44,3 +44,17 @@ UE4 Project Made By: AkumaVenom
 We encourage use of this opensource 2D/3D ShadowRPG Project to inspire and help create projects and games of the same style with a big head start on things.
 
 -------------------------------------
+
+Current requirements for packaged builds:
+
+-1GB Ram
+
+-4GB Video Memory
+
+-Direct X 12
+
+-300MB HDD/SSD Storage Space
+
+-Windows 64bit
+
+-------------------------------------

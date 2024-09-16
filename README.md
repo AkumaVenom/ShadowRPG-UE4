@@ -36,6 +36,10 @@ Features Implemented:
 
 -NPC's can be Looted for a chance of getting items.
 
+-Detailed Video/Graphics Settings
+
+-Full Gamepad Controller Support. (WIP) A few UI's still need updating for full support.
+
 -------------------------------------
 Project Currently Under 2GB & Uses LFS storage.
 

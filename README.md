@@ -12,11 +12,16 @@ ShadowRPG Inspiration comes from:
 
 -------------------------------------
 
+![ShadowRPG0050](https://github.com/user-attachments/assets/266e26c6-5ae2-4669-a01a-3060940dca02)
+
+-------------------------------------
+
 Press TAB while ingame to enter the options menu or just use a gamepad controller and press start to enter the options menu.
 
 Interaction with shopkeeper and dead NPCs is the "F" key.
 
 -------------------------------------
+
 Current NPCs Ingame:
 
 -Axe Zombie (Melee Enemy) It swings and attacks the player with an axe.

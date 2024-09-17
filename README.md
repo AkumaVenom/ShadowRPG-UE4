@@ -23,6 +23,8 @@ Current Weapons Ingame:
 
 -Basic Pitchfork (Melee Weapon)
 
+-Bloody Flame Thrower Casting Power (Ranged Weapon)
+
 -------------------------------------
 
 Features Implemented:

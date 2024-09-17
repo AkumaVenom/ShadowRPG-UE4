@@ -70,9 +70,9 @@ Current requirements for packaged builds:
 
 -------------------------------------
 
-ShadowRPG Tech Demo v0.0.4.1
+ShadowRPG Tech Demo v0.0.5.0
 
-There is a packaged build of v0.0.4.1-alpha for windows 64 bit to Showcase the tech demo.
+There is a packaged build of v0.0.5.0 alpha for windows 64 bit to Showcase the tech demo.
 
 https://github.com/AkumaVenom/ShadowRPG-UE4/releases
 
